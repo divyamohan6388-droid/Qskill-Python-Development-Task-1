@@ -61,69 +61,6 @@ A synthetic **Retail Sales Dataset** was generated with **200 transaction record
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/DataLens-CSV-Explorer.git
-cd DataLens-CSV-Explorer
-```
-
-### 2. Create a Virtual Environment (Recommended)
-```bash
-python -m venv venv
-source venv/bin/activate        # macOS/Linux
-venv\Scripts\activate           # Windows
-```
-
-### 3. Install Dependencies
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-Or install from requirements file:
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch Jupyter Notebook
-```bash
-jupyter notebook DataLens_CSV_Explorer.ipynb
-```
-
----
-
-## 📋 Requirements
-
-```
-pandas>=2.0.0
-numpy>=1.26.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
-jupyter>=7.0.0
-```
-
----
-
-## 🚀 Usage
-
-Open `DataLens_CSV_Explorer.ipynb` in Jupyter and run all cells in order:
-
-| Step | Description |
-|------|-------------|
-| Step 1 | Import all libraries |
-| Step 2 | Generate and save the dataset to `retail_sales.csv` |
-| Step 3 | Load CSV and explore — shape, info, missing values |
-| Step 4 | Compute key averages and metrics |
-| Step 5 | Generate and save Bar Chart |
-| Step 6 | Generate and save Scatter Plot |
-| Step 7 | Generate and save Heatmap |
-| Step 8 | Final summary and observations |
-
-> **Tip:** Use `Kernel → Restart & Run All` to execute the entire notebook at once.
-
----
-
 ## 📊 Visualizations
 
 ### 1. Bar Chart — Total Revenue by Category
@@ -186,7 +123,6 @@ A pivot-table heatmap showing the mean revenue per City-Category combination. Da
 | Slab | Slab 1 (Beginners) |
 | Task | Task 1 of 3 |
 | Duration | 1st April 2026 – 1st May 2026 |
-| Deadline | 1st May 2026 |
 
 ---
 

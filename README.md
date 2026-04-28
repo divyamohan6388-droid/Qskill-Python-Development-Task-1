@@ -126,12 +126,6 @@ A pivot-table heatmap showing the mean revenue per City-Category combination. Da
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙌 Acknowledgements
 
 - Dataset inspired by real-world Indian retail commerce patterns
